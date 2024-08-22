@@ -68,28 +68,13 @@ education:
     summary:
   
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Менеджер по продажам
+    company_name: Магазин кашемира
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2023-05-01
+    date_end: 2023-10-30
+    summary: 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -98,71 +83,55 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        percent: 30
+        icon: python
+      - name: C++
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 40
+        icon: code
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Assembler
+        description: ''
+        percent: 15
+        icon: react
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Games
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: games
+      - name: Sleeping
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: bed
+      - name: Music
         description: ''
         percent: 80
-        icon: camera
+        icon: music
 
 languages:
-  - name: English
+  - name: Русский
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Введение в Linux
+    url: https://stepik.org/course/73/promo?search=5009788441
+    date: '2024-02-01'
+    awarder: Stepik
+    icon: stepik
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      В ходе выполнения данного курса я приобрёл базовые знания и навыки в обращении с операционной системой Linux.
 ---
 
 ## About Me

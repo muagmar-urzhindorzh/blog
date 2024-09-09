@@ -30,7 +30,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Специальные публикации
       filters:
         folders:
           - publication
@@ -40,7 +40,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Последние публикации
       text: ""
       filters:
         folders:
@@ -51,7 +51,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Последние и новые публикации
       filters:
         folders:
           - event
@@ -61,7 +61,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Последние новости
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

@@ -19,15 +19,15 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
+# Роль
 role: Студент РУДН
 
-# Organizations/Affiliations to display in Biography blox
+# Образовательные организации
 organizations:
   - name: РУДН
     url: https://www.rudn.ru/
 
-# Social network links
+# Ссылки на социальные сети
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
@@ -81,7 +81,7 @@ work:
     date_end: 2023-10-30
     summary: 
 
-# Skills
+# Опыт
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Технические навыки
@@ -125,7 +125,7 @@ languages:
   - name: English
     percent: 40
 
-# Awards.
+# Награды
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
@@ -139,6 +139,6 @@ awards:
       В ходе выполнения данного курса я приобрёл базовые знания и навыки в обращении с операционной системой Linux.
 ---
 
-## About Me
+## Обо мне
 
 Привет! Меня зовут Мягмар Уржиндорж, я из Монголии. После успешной сдачи ЕГЭ, решил поступить на Факультет физико-математических и естественных наук Российского унивеситета дружбы народов. Учусь на направлении Компьютерные науки.
